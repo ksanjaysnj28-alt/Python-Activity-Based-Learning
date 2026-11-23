@@ -1,0 +1,9 @@
+PRE-SUBMISSION CHECKLIST
+
+[ ] Enter full name, roll number, branch, and section in README.md.
+[ ] Confirm selected case studies with faculty if approval is required.
+[ ] Open and run all 10 solution.py files on your computer.
+[ ] Replace sample output screenshots with screenshots from your own execution if required by faculty.
+[ ] Review the consolidated report for spelling and student details.
+[ ] Create a public GitHub repository named exactly Python-Activity-Based-Learning (if faculty expects public access).
+[ ] Upload all files and submit the repository URL to the faculty / lab mentor.

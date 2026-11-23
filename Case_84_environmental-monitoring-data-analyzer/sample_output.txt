@@ -1,0 +1,21 @@
+ENVIRONMENTAL MONITORING REPORT
+Campus Gate
+  Reading 1 : 42 - GOOD
+  Reading 2 : 55 - MODERATE
+  Reading 3 : 48 - GOOD
+  Reading 4 : 61 - MODERATE
+  Average: 51.5 Minimum: 42 Maximum: 61
+Library
+  Reading 1 : 78 - MODERATE
+  Reading 2 : 83 - MODERATE
+  Reading 3 : 95 - MODERATE
+  Reading 4 : 88 - MODERATE
+  Average: 86.0 Minimum: 78 Maximum: 95
+Sports Ground
+  Reading 1 : 35 - GOOD
+  Reading 2 : 44 - GOOD
+  Reading 3 : 39 - GOOD
+  Reading 4 : 47 - GOOD
+  Average: 41.25 Minimum: 35 Maximum: 47
+
+Highest average reading: Library - 86.0

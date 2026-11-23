@@ -1,0 +1,9 @@
+SEATING VALIDATION REPORT
+Vacant seat at (1, 4)
+Duplicate roll number ST101 at (2, 3)
+Invalid roll number BAD09 at (3, 3)
+
+Duplicate entries: 1
+Invalid entries: 1
+Vacant seats: 1
+Reserved-seat errors: 0

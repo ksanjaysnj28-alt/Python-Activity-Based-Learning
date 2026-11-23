@@ -1,0 +1,4 @@
+Test case,Input/change,Expected result
+Normal dataset,Use all station readings,Library has the highest average reading of 86.0.
+All low readings,Set all values for a station below 50,Every observation is classified GOOD.
+High observation,Set one observation to 120,That observation is classified HIGH and affects its station maximum and average.

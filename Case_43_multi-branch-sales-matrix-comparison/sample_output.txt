@@ -1,0 +1,14 @@
+BRANCH SALES SUMMARY
+Central Total units: 228
+  Best product: Pen - 120 units
+North Total units: 212
+  Best product: Pen - 90 units
+South Total units: 216
+  Best product: Notebook - 83 units
+
+PRODUCT-WISE TOTALS
+Notebook : 212 units
+Pen : 292 units
+Bottle : 152 units
+
+Leading branch: Central with 228 units

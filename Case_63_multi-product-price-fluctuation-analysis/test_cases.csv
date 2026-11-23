@@ -1,0 +1,4 @@
+Test case,Input/change,Expected result
+Normal price history,Use the supplied prices,Cooking Oil has the largest fluctuation (about 14.41%) from period 2 to 3.
+No change,Set two consecutive prices to the same value,The percentage change for that pair is 0%.
+Decrease,Reduce a later price below the earlier price,The percentage change is negative and its absolute value is used for threshold comparison.

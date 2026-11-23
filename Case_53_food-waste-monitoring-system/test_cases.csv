@@ -1,0 +1,4 @@
+Test case,Input/change,Expected result
+Normal week,Use the supplied prepared and served counts,Wednesday and Friday tie at 15%; Wednesday is retained as the first maximum.
+No leftovers,Set served equal to prepared for one day,That day reports 0% wastage.
+Invalid served count,Set served greater than prepared,The day is reported as invalid instead of calculating a negative leftover.

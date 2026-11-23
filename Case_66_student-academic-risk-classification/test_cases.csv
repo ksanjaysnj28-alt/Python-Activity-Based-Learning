@@ -1,0 +1,4 @@
+Test case,Input/change,Expected result
+Normal dataset,Use supplied student records,"Aarav is LOW, Bhavna and Chirag are HIGH, and Divya is MODERATE risk."
+All thresholds met,"Set marks, attendance, and lab score above their limits",The student is classified LOW risk.
+Two risk factors,Set any two measures below their thresholds,The student is classified HIGH risk.

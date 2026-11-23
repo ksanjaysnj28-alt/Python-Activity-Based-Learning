@@ -1,0 +1,4 @@
+Test case,Input/change,Expected result
+Normal tournament,Use the six supplied match tuples,All four teams receive a ranking based on points and goal difference.
+Draw match,Change a match score to an equal score,Both teams receive one point for that match.
+Tie-break,Give two teams equal points but different goal differences,The team with the higher goal difference is ranked first.

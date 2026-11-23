@@ -1,0 +1,8 @@
+DAILY FOOD WASTE REPORT
+Monday Prepared: 200 Served: 180 Leftovers: 20 Wastage: 10.0 %
+Tuesday Prepared: 180 Served: 165 Leftovers: 15 Wastage: 8.33 %
+Wednesday Prepared: 220 Served: 187 Leftovers: 33 Wastage: 15.0 %
+Thursday Prepared: 160 Served: 152 Leftovers: 8 Wastage: 5.0 %
+Friday Prepared: 200 Served: 170 Leftovers: 30 Wastage: 15.0 %
+
+Highest wastage: Wednesday - 15.0 %

@@ -1,0 +1,4 @@
+Test case,Input/change,Expected result
+Normal dataset,Use the supplied 3-branch and 3-day sales data,Central branch leads with 228 units.
+Zero sales day,Change one day of sales to zero for all products,Totals decrease correctly; no negative values are generated.
+Branch tie,Adjust sales so two branches have equal totals,The first branch with the tied maximum is retained.

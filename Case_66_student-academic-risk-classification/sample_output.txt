@@ -1,0 +1,12 @@
+STUDENT ACADEMIC RISK REPORT
+Aarav Risk factors: 0 Category: LOW
+Bhavna Risk factors: 2 Category: HIGH
+  Reasons: Low marks, Low lab score
+Chirag Risk factors: 3 Category: HIGH
+  Reasons: Low marks, Low attendance, Low lab score
+Divya Risk factors: 1 Category: MODERATE
+  Reasons: Low attendance
+Eshan Risk factors: 0 Category: LOW
+
+CATEGORY SUMMARY
+LOW: 2 MODERATE: 1 HIGH: 2

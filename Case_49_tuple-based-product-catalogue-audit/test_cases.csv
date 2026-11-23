@@ -1,0 +1,4 @@
+Test case,Input/change,Expected result
+Normal catalogue,Use all five supplied product tuples,P102 and P103 need replenishment; P105 is flagged invalid.
+Negative stock,Change P101 stock to -2,P101 is reported as an invalid record and is excluded from value.
+Stock at reorder level,Set P104 stock equal to 6,P104 is included in the replenishment report.

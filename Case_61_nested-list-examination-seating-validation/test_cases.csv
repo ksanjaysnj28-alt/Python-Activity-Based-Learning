@@ -1,0 +1,4 @@
+Test case,Input/change,Expected result
+Normal seating matrix,Use the supplied seating matrix,"ST101 is duplicated, EMPTY is vacant, and BAD09 is invalid."
+Reserved mismatch,Replace RESERVED at row 3 column 4 with a roll number,A reserved-seat error is displayed.
+No duplicate,Replace the second ST101 with ST106,Duplicate count becomes zero.

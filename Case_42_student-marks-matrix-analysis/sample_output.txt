@@ -1,0 +1,12 @@
+STUDENT-WISE RESULTS
+Asha Total: 255 Average: 85.0
+Bharat Total: 222 Average: 74.0
+Charan Total: 272 Average: 90.67
+Diya Total: 185 Average: 61.67
+
+SUBJECT-WISE AVERAGES
+Python Average: 77.5
+Maths Average: 78.0
+Statistics Average: 78.0
+
+Top performer: Charan with 272 marks

@@ -1,0 +1,8 @@
+TRANSACTION AUDIT REPORT
+TX103 Large withdrawal - review required
+TX102 Duplicate transaction ID
+TX105 Invalid amount
+TX106 Invalid transaction type
+
+Valid records: 3
+Audit flags: 3

@@ -1,0 +1,4 @@
+Test case,Input/change,Expected result
+Normal audit,Use the supplied six transaction records,TX102 is duplicate; TX105 has an invalid amount; TX106 has an invalid type.
+Repeated ID,Add another record with TX101,The repeated identifier is flagged.
+Large withdrawal,"Set a valid withdrawal to 25,000",The record is valid but a review message is displayed.

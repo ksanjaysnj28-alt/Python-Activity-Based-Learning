@@ -1,0 +1,4 @@
+Test case,Input/change,Expected result
+Normal dataset,Four students with marks in all three subjects,Charan is the top performer with 272 marks.
+Low subject average,Change every Statistics mark to 40,Statistics average is below 60 and a warning is shown.
+Tie in total,Give two students the same highest total,The first student encountered with that total remains the displayed topper.

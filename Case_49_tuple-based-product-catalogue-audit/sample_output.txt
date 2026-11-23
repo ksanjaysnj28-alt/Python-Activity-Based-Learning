@@ -1,0 +1,11 @@
+PRODUCT CATALOGUE AUDIT
+Replenishment required:
+P101 Inventory value: 810.0
+P102 Inventory value: 62.5
+  Reorder: P102 (stock 5 )
+P103 Inventory value: 0.0
+  Reorder: P103 (stock 0 )
+P104 Inventory value: 1050.0
+P105 Invalid record
+
+Total valid inventory value: 1922.5
